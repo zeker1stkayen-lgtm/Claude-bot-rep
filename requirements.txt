@@ -1,0 +1,4 @@
+anthropic==0.84.0
+python-telegram-bot==22.6
+python-docx==1.2.0
+pypdf==5.1.0
